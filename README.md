@@ -1,10 +1,11 @@
 # Supervised Learning Models Analysis
+
 ## Objective
 Performance analysis of multiple supervised learning models (Neural Network, SVM, and kNN) on different datasets & classification/regression tasks: 
 1. Classify the income class level (low, mid, or high) based on consumer's attributes (demographics, spending behavior, and response to promotions)
 2. Predict the song's Spotify streams based on its release information, cross-platform popularity & charting performance, and Spotify audio features
 
-## Folder structure:
+## Folder Structure
 ```
 table of contents
 ├── README.md
