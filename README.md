@@ -4,7 +4,7 @@ Performance analysis of multiple supervised learning models (Neural Network, SVM
 1. Classify the income class level (low, mid, or high) based on consumer's attributes (demographics, spending behavior, and response to promotions)
 2. Predict the song's Spotify streams based on its release information, cross-platform popularity & charting performance, and Spotify audio features
 
-## Folder feature:
+## Folder structure:
 ```
 table of contents
 ├── README.md
